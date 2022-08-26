@@ -1,4 +1,4 @@
-Tanggal,Sku,No. Pesanan,QTY,Asal Gudang,Total,Sumber,Jenis_Penjualan,Kode Sumber
+tanggal,sku,no_pesanan,qty,asal_gudang,total,sumber,jenis_penjualan,kode_sumber
 2020-10-13,CAGLI1001,INV/20200928/XX/IX/639426010,1,HQ [Online] - Bintaro,"Rp800,000",Tokopedia,Online,4
 2020-10-13,HKISSD12101,INV/20201013/XX/X/650891804,1,TC Jakarta - TokoCabang,"Rp221,500",Tokopedia,Online,4
 2020-10-13,ID6808,INV/20201013/XX/X/651141057,1,TC Jakarta - TokoCabang,"Rp384,413",Tokopedia,Online,4
